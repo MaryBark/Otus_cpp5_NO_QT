@@ -1,0 +1,1 @@
+# Otus_cpp5_NO_QT
