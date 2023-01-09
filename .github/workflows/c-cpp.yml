@@ -37,4 +37,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./otus_cpp_5_Primitive-0.0.${{ github.run_number }}-Linux.deb
           asset_name: otus_cpp_5_Primitive-0.0.${{ github.run_number }}-Linux.deb
-          asset_content_type: application/vnd.debian.binary-package     
+          asset_content_type: application/vnd.debian.binary-package       
